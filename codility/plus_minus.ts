@@ -1,6 +1,6 @@
 // Given an array of integers,
 // calculate the ratios of its elements that are positive, negative, and zero.
-// Print the decimal value of each fraction on a new line with  places after the decimal.
+// Print the decimal value of each fraction(6digits) on a new line with  places after the decimal.
 
 function plusMinus(arr: number[]): void {
   let positive: number = 0;
