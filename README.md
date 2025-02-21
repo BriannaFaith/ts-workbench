@@ -5,3 +5,4 @@
     ```
 ## Interview problems and solutions
 1. Plus Minus
+2. MiniMaxSum
